@@ -69,14 +69,14 @@ Subsequently, in the M2 of fluid mechanics, I was in charge of implementing a mo
 
 - `Python` : tabula, pandas, numpy
 
-The test results for one of the most important universities in Rio de Janeiro had been released, but the official ranking would be released only 1 month later, due to possible revisions of the tests.
+The exam results for one of the most important universities in Rio de Janeiro had been released, but the official ranking would be released only 1 month later, due to possible revisions of the exams.
 However, a friend of mine who had taken the exam was very anxious to find out what position she had been in for medical school.
 
-With that, I made a notebook that extracts a dataframe from the files containing the name of all candidates and their respective grades, through the __tabula__ library.
+With that, I made a notebook that extracts a dataframe from the files containing the name of all the candidates and their respective grades, through the __tabula__ library.
 
-Using __pandas__, I filtered out all the candidates who had only taken the biology and chemistry exams (specific for medical candidates), and calculated the grade.
+Using __pandas__, I filtered out all the candidates who had only taken the biology and chemistry exams (specific for medical candidates), calculated the final grade, sorted it and found an unofficial ranking.
 
-With that, I was able to confirm that my friend was among the top 20 candidates; which was confirmed with its approval in the following month. 
+With that, I was able to confirm that my friend was among the top 20 candidates; which was confirmed with her approval in the following month. 
 
 
 ## `heat_equation`
