@@ -35,9 +35,9 @@ Then, the tools learned in class for spectral analysis of flow stability and opt
 
 In these notebooks I do relevant calculations for a research project focused on discrete chaotic dynamics, with which I was involved for 2 and a half years at the Physics Institute of the Federal University of Rio de Janeiro. 
 
-In summary, the research was focused on a complexified version of the logistic map, in order to study the appearance of periodicity windows in the transition to chaos regime. In these years I learned a lot about code optimization, as the results depended on exhaustive iterative calculations.
+In summary, the research was focused on a complexified version of the logistic map, in order to study the appearance of periodicity windows in the transition to chaos regime. In these years I learned a lot about code optimization, as the results depended on exhaustive iterative calculations (check average_chaos.ipynb).
 
-All my contribution to this research was in the numerical and analytical scope. In one of these notebooks in particular, I use the Numba library to translate Python functions into optimized machine code, using an LLVM compilation library.
+All my contribution to this research was in the numerical and analytical scope. In one of these notebooks in particular, I use the Numba library to translate Python functions into optimized machine code, using an LLVM compilation library (lces.ipynb).
 
 Most of my involvement in this project took place in Mathematica notebooks, as it is a high-level language that allows for a more fluid integration between analytical and numerical studies. I had weekly meetings with Professor Sergio Joras, who gave me numerical challenges in Mathematica related to research every week.  The various Mathematica notebooks I've programmed over the years can be found in the `mathematica` folder under `chaos`. 
 
