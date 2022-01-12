@@ -1,0 +1,188 @@
+<h2>Introduction</h2>
+
+The erosion of mechanical components during the transportation of solid particles is a major industrial problem. The impact of solid particles on pipes and equipments results in surface wear which, depending upon the severity, drastically shortens the life of the components and can result in abrupt failures, leading to high maintenance costs and even environmental damage. Within the scope of oil and gas exploration, this problem is even more emblematic, since a significant amount of sand is produced by the reservoirs and transported in line. Therefore, it is of paramount importance being able to predict and quantify the erosion phenomenon.
+
+<h2>Direct Impact to Wall </h2>
+
+It is important to emphasise that the models listed in this category are mostly empirical models. That is, the erosion equations generate more compatible results when the values chosen for the parameters resemble the values used in the experiment and formulation of the model. 
+
+The empirical constants used in this simulator coincide with the following conditions:
+Particle: Silicon Dioxide (SiO2) 
+Target Wall: AISI Steel 1045
+
+<h3>Ahlert (1994)</h3>
+
+Ahlert’s model is expressed as:
+
+$$\begin{equation}
+ER = C (BH)^{-0.59} F_s V_p^n F(\theta)\\
+\\
+F(\theta) = \sum_{i=1}^{5} A_i \theta^i\\
+\end{equation}$$
+
+where:<br>
+
+\(V_p\) is the particle velocity<br>
+\(F(\theta)\) is the angular function of the model<br>
+\(F_s\) is the sharpness factor<br>
+\(BH\) is the Brinell hardness of the target material<br>
+\(n\) and \(C\) are empirical constants<br>
+
+<h3>Arabnejad et al. (2015)</h3>
+
+Arabnejad's model is described as:
+
+$$\begin{equation}
+ER_c = 
+\begin{cases}
+C_1 Fs \left(\frac{V^{2.41} \sin(\theta) [2 K \cos(\theta) - \sin(\theta)]}{2 K}\right), & \text{if } \theta < \tan^{-1}(K)\\
+C_1 Fs \left(\frac{V^{2.41} {\cos}^{2}(\theta)}{2}\right), & \text{if } \theta > \tan^{-1}(K)\\
+\end{cases}\\
+ER_d = C_2 Fs (V \sin(\theta) - V_{tsh})^{2}
+\end{equation}$$
+
+in which<br>
+\(V\) is the particle velocity<br>
+\(\theta\) is the attack angle<br>
+\(F_s\) is the sharpness factor of the particle<br>
+\(V_{tsh}\) is the particle threshold velocity<br>
+\(K\) is the ratio of vertical to horizontal projected contact area<br>
+\(C_1\) and \(C_2\) are empirical constants<br>
+
+\(K = 0.4\)<br>
+\(C_1 = 3.92 \times 10^{-8}\)<br>
+\(C_2 = 2.30 \times 10^{-8}\)<br>
+\(V_{tsh} = 2.3\)<br>
+
+<h3>DNV (2015)</h3>
+
+DNV’s model is described as:
+
+$$\begin{equation}
+E = K {V}_{p}^{n} F(\alpha)\\
+F(\alpha)_{ductile} = A [\sin(\alpha) + B(\sin(\alpha) - \sin^{2}(\alpha))]^{k} [ 1 - \exp(-C \alpha)]\\
+F(\alpha)_{brittle} = \left(\frac{2 \alpha}{\pi}\right)\\
+\end{equation}$$
+                             
+in which there are 2 possible angular functions, one for brittle materials and another for ductile materials.<br>
+
+Here,<br>
+
+\(V_p\) is the particle velocity<br>
+\(F(\alpha)\) is the angular function<br>
+\(\alpha\) is the impact angle<br>
+\(A\), \(B\), \(C\), \(k\), \(K\) and \(n\) are empirical constants<br>
+
+\(A = 0.6\)<br>
+\(B = 7.2\)<br>
+\(C = 20\)<br>
+\(k = 0.6\)<br>
+\(K = 2 \times 10^{-9}\)<br>
+\(n = 2.6\)<br>
+
+<h3>Finnie (1960)</h3>
+
+Finnie’s model, one of the first attempts to model erosive wear, is expressed as:
+
+$$\begin{equation}
+\epsilon_{VP} =
+\begin{cases}
+\frac{m_P V_p^2}{P \psi_k} \left(\sin(2\alpha)-\frac{6}{\kappa}\sin^2\alpha\right), & \text{if } \tan{\alpha} \le \frac{\kappa}{6}\\
+\frac{m_P V_p^2}{P \psi_k} \left(\frac{\kappa \cos^2\alpha}{6}\right), & \text{if } \tan{\alpha} > \frac{\kappa}{6}\\
+\end{cases}
+\end{equation}$$ 
+
+where:<br>
+\(m_P\) is the mass of a single abrasive grain<br>
+\(V_p\) is the impact velocity of the particle<br>
+\(\alpha\) is the impact angle <br>
+\(P\) is the plastic flow stress <br>
+
+\(\kappa\) is the ratio of vertical to horizontal force component on particle<br>
+\(\psi_k\) is the ratio of depth of contact to depth of cut<br>
+
+The model highly underestimates material removal for particle approach angles greater than 45°. Also, no erosion is predicted for normal impacts. Thus, it is seen that Finnie’s model could predict the material removal accurately for shallow angles of approach and ductile materials, but gave large errors for brittle materials and higher particle approach angles.
+
+<h3>Haugen et al. (1995)</h3>
+
+Haugen’s model is described as:
+
+$$\begin{equation}
+F(\theta) = \sum_{i=1}^{8} (-1)^{(i+1)} A_i \left(\frac{\theta \pi}{180}\right)^i\\
+\epsilon_w = m K_p F(\alpha) V_p^{n_p}
+\end{equation}$$
+
+in which<br>
+
+\(m\) is the mass of the particle<br>
+\(V_p\) is the particle velocity<br>
+\(F(\alpha)\) is the angular function<br>
+\(\alpha\) is the impact angle<br>
+\(K_p\) and n are empirical constants<br>
+
+\(K_p = 2 \times 10^{-9}\)<br>
+\(n = 2.6\)<br>
+
+<h3>Huang et al. (2008)</h3>
+
+Huang's model is expressed as:
+
+$$\begin{equation}
+\Delta Q \approx C m \rho_p^{0.15} (V_0 \sin\theta)^{2.3} + D m^{1.1875} d_p^{-0.0625} V_0^{2.375} (\cos\theta)^2 (\sin\theta)^{0.375}
+\end{equation}$$
+
+where:<br>
+
+\(V_0\) is the particle velocity upon impact<br>
+\(m\) is the mass of the particle<br>
+\(d_p\) is the particle diameter<br>
+\(\rho_p\) is the particle density<br>
+\(\theta\) is the attack angle<br>
+\(C\) and \(D\) are empirical constants defined by the cutting and deformation mechanisms, respectively.<br>
+
+\(C = 7.5 \times 10^{-3}\)<br>
+\(D = 0.082\)<br>
+
+<h3>Oka and Yoshida (2005)</h3>
+
+This empirical model is described as: 
+
+$$\begin{equation}
+E(\theta) = g(\theta) E_{90}\\
+g(\theta) = (\sin\theta)^{n_ 1} (1+H_v (1 -\sin\theta))^{n_2}\\
+E_{90} = K (H_v)^{k_1} \left(\frac{V_p}{V'}\right)^{k_2} \left(\frac{D_p}{D'}\right)^{k_3}\\
+n_1 = s_1 (H_v)^{q_1} \text{,    }
+n_2 = s_2 (H_v)^{q_2} \text{,    }
+k_2 = 2.3 (H_v)^{0.038}\\
+\end{equation}$$
+ 
+where:<br>
+\(V_p\) is the impact velocity of the particle<br>
+\(D_p\) is the particle diameter<br>
+\(\theta\) is the impact angle<br>
+\(H_v\) is the Vicker’s hardness of the target material<br>
+
+\(V’\) is the reference impact velocity<br>
+\(D'\) is the reference particle diameter<br>
+\(k_1\), \(k_2\), \(k_3\) and \(K\) are empirical constants<br>
+
+<h2>Other Geometries</h2>
+
+The remaining geometries available in the simulator were implemented based on the DNV article "Managing sand production and erosion". The only considerations made were the same for the DNV model listed above.
+
+Other than that, the process for calculating erosion in each geometry is strictly followed as presented in the article.
+
+<h2>References</h2>
+
+Ahlert, K. R. (1994). Effects of Particle Impingement Angle and Surface Wetting on Solid Particle Erosion of AISI 1018 Steel. The University of Tulsa.<br>
+Arabnejad, H., Mansouri, A., Shirazi, S. A., & McLaury, B. S. (2015). Development of mechanistic erosion equation for solid particles. Wear, 332–333, 1044–1050. http://doi.org/10.1016/j.wear.2015.01.031<br>
+DNV GL (2015). DNVGL-RP-O501 Managing sand production and erosion.<br>
+Finnie, I. (1960). Erosion of surfaces by solid particles. Wear, 3(2), 87–103. http://doi.org/10.1016/0043-1648(60)90055-7<br>
+Haugen, K., Kvernvold, O., Ronold, A., & Sandberg, R. (1995). Sand erosion of wear-resistant materials: Erosion in choke valves. Wear, 186–187(PART 1), 179–188. http://doi.org/10.1016/0043-1648(95)07158-X<br>
+Huang, C., Chiovelli, S., Minev, P., Luo, J., & Nandakumar, K. (2008). A comprehensive phenomenological model for erosion of materials in jet flow. Powder Technology, 187(3), 273–279. http://doi.org/10.1016/j.powtec.2008.03.003<br>
+Oka, Y. I., & Yoshida, T. (2005). Practical estimation of erosion damage caused by solid particle impact: Part 2: Mechanical properties of materials directly associated with erosion damage. Wear, 259(1–6), 102–109. http://doi.org/10.1016/j.wear.2005.01.040<br>
+
+
+
+
+

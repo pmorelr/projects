@@ -1,0 +1,2 @@
+7a0e5954bdbd6140504e7c418ceb8bc6  level8.c
+8a9eda2227f725f04b043201fd5144e7  level8.s

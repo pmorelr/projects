@@ -1,0 +1,791 @@
+WARNING: convergence for p not reached after 100 iterations
+  res: 3152.96 sum: -1.54283e+06 nrelax: 99
+WARNING: convergence for p not reached after 100 iterations
+  res: 2402.96 sum: -1.04633e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2371.51 sum: -1.67809e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2356.91 sum: -1.66939e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2398.61 sum: -1.57931e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2481.32 sum: -1.67142e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2373.39 sum: -1.60609e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2552.74 sum: -1.56981e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2275.85 sum: -1.67387e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2428.54 sum: -1.56187e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2297.03 sum: -1.63719e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2408.05 sum: -1.67156e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2318.8 sum: -1.60424e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2574.6 sum: -1.6264e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2354.59 sum: -1.59449e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2288.44 sum: -1.6338e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2529.99 sum: -1.71431e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2345.9 sum: -1.61055e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2481.63 sum: -1.74377e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2451.08 sum: -1.61422e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2311.87 sum: -1.54866e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2339.23 sum: -1.60225e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2296 sum: -1.47357e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2353.6 sum: -1.40067e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2609.89 sum: -1.49615e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2331.02 sum: -1.64468e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2506.27 sum: -1.69576e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2354.78 sum: -1.49349e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2407.93 sum: -1.46812e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2425.08 sum: -1.36124e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2512.49 sum: -1.59894e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2387.35 sum: -1.74778e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2741.08 sum: -1.92572e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 2746.57 sum: -2.06833e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3043.91 sum: -2.26163e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3288.83 sum: -2.54074e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3778.33 sum: -2.57089e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3555.31 sum: -2.90357e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3596.64 sum: -3.02638e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 3905.75 sum: -3.30271e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4315.48 sum: -3.3379e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4328.05 sum: -3.57039e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4534.42 sum: -3.66532e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4400.77 sum: -3.79408e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4915.19 sum: -3.96938e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4301.62 sum: -4.19909e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4401.15 sum: -4.11157e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4531.06 sum: -4.31481e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 4904.86 sum: -4.35798e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5018.18 sum: -4.46119e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5060.58 sum: -4.57873e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5367.48 sum: -4.58203e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5240.58 sum: -4.78406e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10004.9 sum: -7.66232e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5992.38 sum: -4.74479e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 9333.42 sum: -8.22764e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5579.55 sum: -4.98189e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 9508.21 sum: -7.99418e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5657.43 sum: -4.84847e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 9235.85 sum: -8.47632e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5496.3 sum: -5.08858e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10429 sum: -8.3327e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6173.87 sum: -5.00807e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10561.3 sum: -8.71908e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6257.27 sum: -5.23807e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10139.3 sum: -8.50638e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5967.84 sum: -5.14855e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10682.8 sum: -8.96965e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6303.72 sum: -5.43138e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10037.7 sum: -8.92481e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5889.75 sum: -5.30594e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10821.6 sum: -9.3008e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6356.76 sum: -5.55369e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10513 sum: -8.95744e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6143.21 sum: -5.31286e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10966.4 sum: -9.47326e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6414.34 sum: -5.59576e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10438.7 sum: -9.47985e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6085.98 sum: -5.58845e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 9963.9 sum: -9.44468e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5799.45 sum: -5.6189e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11785.9 sum: -9.7393e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6852.51 sum: -5.74163e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11988.9 sum: -9.66041e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6957.7 sum: -5.70708e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10706.6 sum: -1.00812e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6208.48 sum: -5.90205e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12002 sum: -9.96201e+06 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6942.75 sum: -5.84229e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11774.6 sum: -1.00834e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6803.9 sum: -5.98261e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 9904.78 sum: -1.03257e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5720.85 sum: -6.05434e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10101.8 sum: -1.02942e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5821.67 sum: -6.05689e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10065.6 sum: -1.05275e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5801.54 sum: -6.19967e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10106.5 sum: -1.06151e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5814.01 sum: -6.21953e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11347.9 sum: -1.06707e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6519.81 sum: -6.25615e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13520.8 sum: -1.04566e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7750.16 sum: -6.13418e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10185.9 sum: -1.11844e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5846.51 sum: -6.45796e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10484.6 sum: -1.0715e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5994.92 sum: -6.22734e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10765.9 sum: -1.11086e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6159.2 sum: -6.47309e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10310.2 sum: -1.11518e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5886.21 sum: -6.46439e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12141.3 sum: -1.11991e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6934.79 sum: -6.51077e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 10029.7 sum: -1.15206e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 5719.22 sum: -6.61759e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13061.5 sum: -1.12398e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7440.12 sum: -6.53926e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13885.7 sum: -1.14108e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7900.78 sum: -6.59332e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11202.4 sum: -1.1752e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6371.67 sum: -6.76364e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12060.7 sum: -1.16979e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6854.13 sum: -6.76491e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14175.6 sum: -1.17558e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8051.24 sum: -6.82561e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11166.7 sum: -1.19902e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6335.84 sum: -6.8974e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12477.5 sum: -1.19231e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7072.34 sum: -6.88818e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14761.5 sum: -1.18591e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8354.46 sum: -6.85301e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13104.7 sum: -1.2158e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7420.82 sum: -6.9945e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11631.1 sum: -1.21917e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6566.94 sum: -6.97054e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12355.6 sum: -1.25278e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6987.63 sum: -7.16847e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13894.5 sum: -1.24569e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7839.06 sum: -7.12926e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11932.2 sum: -1.25919e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6730.63 sum: -7.20756e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12407.8 sum: -1.24991e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6992.18 sum: -7.18291e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13303.3 sum: -1.27076e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7487.02 sum: -7.24943e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15346.3 sum: -1.27472e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8639.13 sum: -7.32241e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14009 sum: -1.27103e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7873.01 sum: -7.26734e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12177 sum: -1.30628e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6843.56 sum: -7.43045e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13086.1 sum: -1.30825e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7349.76 sum: -7.4519e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12039.4 sum: -1.30852e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6756.33 sum: -7.45858e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12158.4 sum: -1.31122e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6817.27 sum: -7.46803e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14331.6 sum: -1.33823e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8034.56 sum: -7.60081e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12537.6 sum: -1.3387e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7024.22 sum: -7.60228e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14028 sum: -1.31222e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7844.49 sum: -7.46822e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12024.8 sum: -1.38268e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6735.5 sum: -7.81649e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13243.5 sum: -1.33608e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7398.55 sum: -7.57493e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12103.3 sum: -1.38479e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6769.92 sum: -7.86786e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13093.3 sum: -1.37189e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7310.01 sum: -7.73785e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15514.6 sum: -1.38199e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8663.82 sum: -7.80176e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13045.5 sum: -1.40098e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7281.44 sum: -7.92057e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16700.4 sum: -1.38211e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9306.56 sum: -7.81702e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14435.5 sum: -1.41872e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8051.56 sum: -8.0008e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16252.4 sum: -1.38819e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9043.22 sum: -7.81763e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15387.9 sum: -1.43321e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8570.46 sum: -8.05862e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13980.3 sum: -1.42734e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7774.35 sum: -7.98712e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14075.2 sum: -1.42488e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7831.66 sum: -8.04447e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12903 sum: -1.44812e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7165.4 sum: -8.09976e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14517.4 sum: -1.4249e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8061.84 sum: -7.99884e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13076.3 sum: -1.47813e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7262.36 sum: -8.27501e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14970.8 sum: -1.44876e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8302.64 sum: -8.11014e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16218.1 sum: -1.49385e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9004.66 sum: -8.38426e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17787.4 sum: -1.47262e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9859.51 sum: -8.2747e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16620.3 sum: -1.47711e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9211.3 sum: -8.27007e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 11577.1 sum: -1.50306e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6411.46 sum: -8.40575e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13557.7 sum: -1.50694e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7510.86 sum: -8.45465e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13826 sum: -1.48259e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7644.29 sum: -8.30986e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15345.3 sum: -1.49833e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8490.61 sum: -8.39358e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13997.9 sum: -1.54725e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7744.09 sum: -8.63182e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17119.1 sum: -1.48158e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9450.28 sum: -8.29403e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16568.4 sum: -1.53738e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9154.99 sum: -8.62157e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13729.8 sum: -1.52934e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7573.61 sum: -8.53079e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14328.5 sum: -1.55833e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7915.6 sum: -8.67499e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13788.5 sum: -1.54157e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7600.23 sum: -8.58362e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14232.3 sum: -1.54508e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7847.41 sum: -8.6433e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13829.9 sum: -1.58548e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7628.94 sum: -8.82649e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15872.9 sum: -1.5535e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8741.14 sum: -8.66603e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13610.8 sum: -1.58499e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7500.65 sum: -8.85842e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16884.1 sum: -1.56406e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9288.46 sum: -8.70152e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17333.5 sum: -1.57743e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9539.35 sum: -8.79439e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15519.3 sum: -1.58283e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8535.34 sum: -8.80865e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 12405.3 sum: -1.61469e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 6823.52 sum: -8.94686e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14709.8 sum: -1.59737e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8085.75 sum: -8.90251e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13615.4 sum: -1.63119e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7482.85 sum: -9.06782e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17981.7 sum: -1.58742e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9872.93 sum: -8.83451e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14865.6 sum: -1.6332e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8164.22 sum: -9.06723e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15687 sum: -1.62078e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8605.56 sum: -8.99052e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13413.7 sum: -1.67772e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7368.37 sum: -9.28033e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16518 sum: -1.61028e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9047.35 sum: -8.91964e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19054.4 sum: -1.65081e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10451.2 sum: -9.14113e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 13746.8 sum: -1.66121e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7536.25 sum: -9.18716e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16144.7 sum: -1.63098e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8836.75 sum: -9.05862e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15327.8 sum: -1.702e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8408.65 sum: -9.43796e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14787.1 sum: -1.65051e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8093.75 sum: -9.13701e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15865 sum: -1.67455e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8683.65 sum: -9.27254e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15276.3 sum: -1.70185e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8362.43 sum: -9.38388e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16383.8 sum: -1.63929e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8956.94 sum: -9.09993e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16635.3 sum: -1.71026e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9097.3 sum: -9.45562e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15278.4 sum: -1.70409e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8350.4 sum: -9.40406e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19962.7 sum: -1.70878e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10915.4 sum: -9.47792e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17070.9 sum: -1.7163e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9322.61 sum: -9.47123e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15645 sum: -1.71964e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8541.88 sum: -9.47326e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19185.1 sum: -1.72574e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10480 sum: -9.53359e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 14463.4 sum: -1.73298e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 7889.12 sum: -9.55313e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18369.5 sum: -1.75253e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10032 sum: -9.66894e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16252 sum: -1.72304e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8859.88 sum: -9.52612e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15472.3 sum: -1.77227e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8442.95 sum: -9.76222e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16636.8 sum: -1.74391e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9069.22 sum: -9.59525e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16846.2 sum: -1.76008e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9181.17 sum: -9.71515e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19425.7 sum: -1.78848e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10585.8 sum: -9.84374e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18321.2 sum: -1.72703e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9967.68 sum: -9.51655e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 15404.3 sum: -1.82378e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8394.93 sum: -1.00228e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20586.5 sum: -1.74772e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11197.5 sum: -9.63932e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16358.8 sum: -1.80152e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 8904.36 sum: -9.90581e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20148.3 sum: -1.83306e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10968.9 sum: -1.00776e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19625.1 sum: -1.74935e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10658.3 sum: -9.64506e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16732.1 sum: -1.84627e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9107.44 sum: -1.01131e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20586.5 sum: -1.80684e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11180.8 sum: -9.91726e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20178.3 sum: -1.82918e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10968.5 sum: -1.00308e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 21751.1 sum: -1.84063e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11820.1 sum: -1.00979e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17976.1 sum: -1.84345e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9760.15 sum: -1.01334e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 21252.2 sum: -1.81153e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11535.9 sum: -9.95929e+06 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16696 sum: -1.85346e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9063.69 sum: -1.01773e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18183.9 sum: -1.85029e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9864.52 sum: -1.01742e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 21122.8 sum: -1.83867e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11461.8 sum: -1.00846e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 16936.9 sum: -1.85862e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9180.36 sum: -1.01786e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17365.5 sum: -1.90061e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9424.49 sum: -1.04096e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20874.9 sum: -1.82279e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11306.6 sum: -1.00096e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 20562.2 sum: -1.89772e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11144.3 sum: -1.03793e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17051.3 sum: -1.86097e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9235.64 sum: -1.01879e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18722.8 sum: -1.90024e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10145 sum: -1.04231e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17698.4 sum: -1.85942e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9578.34 sum: -1.01663e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 17574.8 sum: -1.91019e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9517.24 sum: -1.04779e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18849.1 sum: -1.90219e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10202.3 sum: -1.04169e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 21141.6 sum: -1.91377e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11442.5 sum: -1.0459e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18011.2 sum: -1.9161e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9744.64 sum: -1.05063e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19943.4 sum: -1.89896e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10788.8 sum: -1.04237e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19832.4 sum: -1.92552e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10715.5 sum: -1.05167e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19020 sum: -1.94952e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10289.4 sum: -1.06713e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 21528 sum: -1.89754e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 11624.9 sum: -1.03752e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19443.1 sum: -1.9507e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10506.6 sum: -1.06576e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 19638 sum: -1.94546e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 10611.3 sum: -1.06424e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 24077.8 sum: -1.96102e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 13003.5 sum: -1.06973e+07 nrelax: 100
+WARNING: convergence for pf not reached after 100 iterations
+  res: 18304.1 sum: -1.96609e+07 nrelax: 100
+WARNING: convergence for p not reached after 100 iterations
+  res: 9884.63 sum: -1.07388e+07 nrelax: 100
+ffmpeg version 4.2.4-1ubuntu0.1 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  WARNING: library configuration mismatch
+  avcodec     configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared --enable-version3 --disable-doc --disable-programs --enable-libaribb24 --enable-liblensfun --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libtesseract --enable-libvo_amrwbenc
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, image2pipe, from 'pipe:':
+  Duration: N/A, bitrate: N/A
+    Stream #0:0: Video: ppm, rgb24, 600x600, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Stream mapping:
+  Stream #0:0 -> #0:0 (ppm (native) -> h264 (libx264))
+[libx264 @ 0x5555555dd680] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x5555555dd680] profile High, level 3.0
+Output #0, mpegts, to 'movie.mp4':
+  Metadata:
+    encoder         : Lavf58.29.100
+    Stream #0:0: Video: h264 (libx264), yuv420p, 600x600, q=-1--1, 25 fps, 90k tbn, 25 tbc
+    Metadata:
+      encoder         : Lavc58.54.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: -1
+frame=    7 fps=0.0 q=19.0 size=     181kB time=00:00:00.24 bitrate=6191.2kbits/s speed=0.425x    frame=    9 fps=6.8 q=19.0 size=     198kB time=00:00:00.32 bitrate=5071.1kbits/s speed=0.241x    frame=   11 fps=5.2 q=19.0 size=     215kB time=00:00:00.40 bitrate=4410.4kbits/s speed=0.191x    frame=   13 fps=4.7 q=19.0 size=     232kB time=00:00:00.48 bitrate=3966.7kbits/s speed=0.172x    frame=   15 fps=4.3 q=19.0 size=     249kB time=00:00:00.56 bitrate=3639.1kbits/s speed=0.162x    frame=   17 fps=4.0 q=20.0 size=     256kB time=00:00:00.64 bitrate=3276.7kbits/s speed=0.152x    frame=   19 fps=3.7 q=19.0 size=     256kB time=00:00:00.72 bitrate=2912.7kbits/s speed=0.14x    frame=   21 fps=3.4 q=19.0 size=     256kB time=00:00:00.80 bitrate=2621.4kbits/s speed=0.131x    frame=   23 fps=3.3 q=19.0 size=     256kB time=00:00:00.88 bitrate=2383.1kbits/s speed=0.124x    frame=   24 fps=3.1 q=19.0 size=     256kB time=00:00:00.92 bitrate=2279.5kbits/s speed=0.121x    frame=   25 fps=3.0 q=19.0 size=     256kB time=00:00:00.96 bitrate=2184.5kbits/s speed=0.117x    frame=   26 fps=3.0 q=19.0 size=     256kB time=00:00:01.00 bitrate=2097.1kbits/s speed=0.114x    frame=   27 fps=2.9 q=19.0 size=     256kB time=00:00:01.04 bitrate=2016.5kbits/s speed=0.112x    frame=   29 fps=2.8 q=19.0 size=     256kB time=00:00:01.12 bitrate=1872.4kbits/s speed=0.109x    frame=   31 fps=2.8 q=20.0 size=     256kB time=00:00:01.20 bitrate=1747.6kbits/s speed=0.108x    frame=   33 fps=2.8 q=20.0 size=     256kB time=00:00:01.28 bitrate=1638.4kbits/s speed=0.107x    frame=   35 fps=2.7 q=20.0 size=     256kB time=00:00:01.36 bitrate=1542.0kbits/s speed=0.105x    frame=   37 fps=2.7 q=20.0 size=     256kB time=00:00:01.44 bitrate=1456.3kbits/s speed=0.104x    frame=   39 fps=2.6 q=20.0 size=     256kB time=00:00:01.52 bitrate=1379.7kbits/s speed=0.103x    frame=   40 fps=2.6 q=19.0 size=     256kB time=00:00:01.56 bitrate=1344.3kbits/s speed=0.102x    frame=   42 fps=2.6 q=20.0 size=     256kB time=00:00:01.64 bitrate=1278.7kbits/s speed=0.101x    frame=   43 fps=2.6 q=20.0 size=     256kB time=00:00:01.68 bitrate=1248.3kbits/s speed= 0.1x    frame=   45 fps=2.5 q=19.0 size=     256kB time=00:00:01.76 bitrate=1191.6kbits/s speed=0.0994x    frame=   46 fps=2.5 q=19.0 size=     512kB time=00:00:01.80 bitrate=2330.2kbits/s speed=0.0988x    frame=   48 fps=2.5 q=19.0 size=     512kB time=00:00:01.88 bitrate=2231.0kbits/s speed=0.0985x    frame=   50 fps=2.5 q=19.0 size=     512kB time=00:00:01.96 bitrate=2139.9kbits/s speed=0.0982x    frame=   51 fps=2.5 q=19.0 size=     512kB time=00:00:02.00 bitrate=2097.1kbits/s speed=0.0972x    frame=   52 fps=2.5 q=19.0 size=     512kB time=00:00:02.04 bitrate=2056.0kbits/s speed=0.0963x    frame=   54 fps=2.4 q=19.0 size=     512kB time=00:00:02.12 bitrate=1978.4kbits/s speed=0.0957x    frame=   56 fps=2.4 q=19.0 size=     512kB time=00:00:02.20 bitrate=1906.5kbits/s speed=0.0956x    frame=   58 fps=2.4 q=20.0 size=     512kB time=00:00:02.28 bitrate=1839.6kbits/s speed=0.0956x    frame=   60 fps=2.4 q=19.0 size=     512kB time=00:00:02.36 bitrate=1777.2kbits/s speed=0.0954x    frame=   61 fps=2.4 q=19.0 size=     512kB time=00:00:02.40 bitrate=1747.6kbits/s speed=0.095x    frame=   63 fps=2.4 q=19.0 size=     512kB time=00:00:02.48 bitrate=1691.2kbits/s speed=0.0949x    frame=   65 fps=2.4 q=19.0 size=     512kB time=00:00:02.56 bitrate=1638.4kbits/s speed=0.0948x    frame=   67 fps=2.4 q=19.0 size=     512kB time=00:00:02.64 bitrate=1588.7kbits/s speed=0.0945x    frame=   69 fps=2.4 q=19.0 size=     512kB time=00:00:02.72 bitrate=1542.0kbits/s speed=0.0946x    frame=   71 fps=2.4 q=19.0 size=     512kB time=00:00:02.80 bitrate=1498.0kbits/s speed=0.0951x    frame=   73 fps=2.4 q=19.0 size=     512kB time=00:00:02.88 bitrate=1456.3kbits/s speed=0.0955x    frame=   75 fps=2.4 q=19.0 size=     512kB time=00:00:02.96 bitrate=1417.0kbits/s speed=0.0957x    frame=   77 fps=2.4 q=19.0 size=     512kB time=00:00:03.04 bitrate=1379.7kbits/s speed=0.0955x    frame=   79 fps=2.4 q=19.0 size=     768kB time=00:00:03.12 bitrate=2016.5kbits/s speed=0.0956x    frame=   81 fps=2.4 q=19.0 size=     768kB time=00:00:03.20 bitrate=1966.1kbits/s speed=0.0955x    frame=   83 fps=2.4 q=19.0 size=     768kB time=00:00:03.28 bitrate=1918.1kbits/s speed=0.0954x    frame=   85 fps=2.4 q=19.0 size=     768kB time=00:00:03.36 bitrate=1872.5kbits/s speed=0.0956x    frame=   87 fps=2.4 q=19.0 size=     768kB time=00:00:03.44 bitrate=1828.9kbits/s speed=0.0961x    frame=   89 fps=2.4 q=19.0 size=     768kB time=00:00:03.52 bitrate=1787.3kbits/s speed=0.0965x    frame=   91 fps=2.4 q=19.0 size=     768kB time=00:00:03.60 bitrate=1747.6kbits/s speed=0.0963x    frame=   93 fps=2.4 q=19.0 size=     768kB time=00:00:03.68 bitrate=1709.6kbits/s speed=0.0959x    frame=   95 fps=2.4 q=19.0 size=     768kB time=00:00:03.76 bitrate=1673.3kbits/s speed=0.0962x    frame=   97 fps=2.4 q=19.0 size=     768kB time=00:00:03.84 bitrate=1638.4kbits/s speed=0.0964x    frame=   99 fps=2.4 q=19.0 size=     768kB time=00:00:03.92 bitrate=1605.0kbits/s speed=0.0967x    frame=  101 fps=2.4 q=19.0 size=     768kB time=00:00:04.00 bitrate=1572.9kbits/s speed=0.0969x    frame=  103 fps=2.5 q=19.0 size=     768kB time=00:00:04.08 bitrate=1542.0kbits/s speed=0.0971x    frame=  105 fps=2.5 q=19.0 size=     768kB time=00:00:04.16 bitrate=1512.4kbits/s speed=0.0974x    frame=  107 fps=2.5 q=19.0 size=     768kB time=00:00:04.24 bitrate=1483.8kbits/s speed=0.0979x    frame=  109 fps=2.5 q=19.0 size=     768kB time=00:00:04.32 bitrate=1456.4kbits/s speed=0.0983x    frame=  111 fps=2.5 q=19.0 size=    1024kB time=00:00:04.40 bitrate=1906.5kbits/s speed=0.0986x    frame=  113 fps=2.5 q=19.0 size=    1024kB time=00:00:04.48 bitrate=1872.5kbits/s speed=0.0986x    frame=  115 fps=2.5 q=19.0 size=    1024kB time=00:00:04.56 bitrate=1839.6kbits/s speed=0.0981x    frame=  117 fps=2.5 q=19.0 size=    1024kB time=00:00:04.64 bitrate=1807.9kbits/s speed=0.098x    frame=  119 fps=2.5 q=19.0 size=    1024kB time=00:00:04.72 bitrate=1777.2kbits/s speed=0.0979x    frame=  121 fps=2.5 q=20.0 size=    1024kB time=00:00:04.80 bitrate=1747.6kbits/s speed=0.0979x    frame=  123 fps=2.5 q=20.0 size=    1024kB time=00:00:04.88 bitrate=1719.0kbits/s speed=0.098x    frame=  125 fps=2.5 q=19.0 size=    1024kB time=00:00:04.96 bitrate=1691.2kbits/s speed=0.098x    frame=  127 fps=2.5 q=19.0 size=    1024kB time=00:00:05.04 bitrate=1664.4kbits/s speed=0.0979x    frame=  129 fps=2.5 q=20.0 size=    1024kB time=00:00:05.12 bitrate=1638.4kbits/s speed=0.0978x    frame=  131 fps=2.5 q=19.0 size=    1024kB time=00:00:05.20 bitrate=1613.2kbits/s speed=0.0978x    frame=  133 fps=2.5 q=19.0 size=    1024kB time=00:00:05.28 bitrate=1588.7kbits/s speed=0.0981x    frame=  135 fps=2.5 q=20.0 size=    1024kB time=00:00:05.36 bitrate=1565.0kbits/s speed=0.0983x    frame=  137 fps=2.5 q=20.0 size=    1024kB time=00:00:05.44 bitrate=1542.0kbits/s speed=0.0983x    frame=  138 fps=2.5 q=20.0 size=    1024kB time=00:00:05.48 bitrate=1530.8kbits/s speed=0.0981x    frame=  140 fps=2.5 q=20.0 size=    1024kB time=00:00:05.56 bitrate=1508.7kbits/s speed=0.0982x    frame=  142 fps=2.5 q=20.0 size=    1024kB time=00:00:05.64 bitrate=1487.3kbits/s speed=0.0982x    frame=  144 fps=2.5 q=20.0 size=    1280kB time=00:00:05.72 bitrate=1833.2kbits/s speed=0.0983x    frame=  146 fps=2.5 q=20.0 size=    1280kB time=00:00:05.80 bitrate=1807.9kbits/s speed=0.0984x    frame=  148 fps=2.5 q=19.0 size=    1280kB time=00:00:05.88 bitrate=1783.3kbits/s speed=0.0986x    frame=  150 fps=2.5 q=19.0 size=    1280kB time=00:00:05.96 bitrate=1759.4kbits/s speed=0.0988x    frame=  152 fps=2.5 q=20.0 size=    1280kB time=00:00:06.04 bitrate=1736.0kbits/s speed=0.0992x    frame=  154 fps=2.5 q=20.0 size=    1280kB time=00:00:06.12 bitrate=1713.4kbits/s speed=0.0996x    frame=  156 fps=2.5 q=20.0 size=    1280kB time=00:00:06.20 bitrate=1691.2kbits/s speed=0.0999x    frame=  158 fps=2.5 q=20.0 size=    1280kB time=00:00:06.28 bitrate=1669.7kbits/s speed= 0.1x    frame=  160 fps=2.5 q=20.0 size=    1280kB time=00:00:06.36 bitrate=1648.7kbits/s speed=0.101x    frame=  162 fps=2.5 q=19.0 size=    1280kB time=00:00:06.44 bitrate=1628.2kbits/s speed=0.101x    frame=  164 fps=2.5 q=19.0 size=    1280kB time=00:00:06.52 bitrate=1608.2kbits/s speed=0.101x    frame=  166 fps=2.5 q=19.0 size=    1280kB time=00:00:06.60 bitrate=1588.7kbits/s speed=0.101x    frame=  168 fps=2.6 q=20.0 size=    1280kB time=00:00:06.68 bitrate=1569.7kbits/s speed=0.101x    frame=  170 fps=2.6 q=20.0 size=    1280kB time=00:00:06.76 bitrate=1551.1kbits/s speed=0.102x    frame=  172 fps=2.6 q=20.0 size=    1280kB time=00:00:06.84 bitrate=1533.0kbits/s speed=0.102x    frame=  174 fps=2.5 q=20.0 size=    1280kB time=00:00:06.92 bitrate=1515.3kbits/s speed=0.101x    frame=  176 fps=2.5 q=20.0 size=    1280kB time=00:00:07.00 bitrate=1498.0kbits/s speed=0.101x    frame=  177 fps=2.5 q=20.0 size=    1536kB time=00:00:07.04 bitrate=1787.3kbits/s speed=0.101x    frame=  178 fps=2.5 q=20.0 size=    1536kB time=00:00:07.08 bitrate=1777.2kbits/s speed= 0.1x    frame=  179 fps=2.5 q=20.0 size=    1536kB time=00:00:07.12 bitrate=1767.3kbits/s speed= 0.1x    frame=  180 fps=2.5 q=20.0 size=    1536kB time=00:00:07.16 bitrate=1757.4kbits/s speed= 0.1x    frame=  181 fps=2.5 q=20.0 size=    1536kB time=00:00:07.20 bitrate=1747.6kbits/s speed=0.0999x    frame=  183 fps=2.5 q=21.0 size=    1536kB time=00:00:07.28 bitrate=1728.4kbits/s speed=0.0997x    frame=  185 fps=2.5 q=21.0 size=    1536kB time=00:00:07.36 bitrate=1709.6kbits/s speed=0.0997x    frame=  187 fps=2.5 q=21.0 size=    1536kB time=00:00:07.44 bitrate=1691.2kbits/s speed=0.0997x    frame=  189 fps=2.5 q=21.0 size=    1536kB time=00:00:07.52 bitrate=1673.3kbits/s speed=0.0995x    frame=  190 fps=2.5 q=21.0 size=    1536kB time=00:00:07.56 bitrate=1664.4kbits/s speed=0.0993x    frame=  192 fps=2.5 q=21.0 size=    1536kB time=00:00:07.64 bitrate=1647.0kbits/s speed=0.0992x    frame=  194 fps=2.5 q=21.0 size=    1536kB time=00:00:07.72 bitrate=1629.9kbits/s speed=0.0988x    frame=  195 fps=2.5 q=21.0 size=    1536kB time=00:00:07.76 bitrate=1621.5kbits/s speed=0.0986x    frame=  196 fps=2.5 q=21.0 size=    1536kB time=00:00:07.80 bitrate=1613.2kbits/s speed=0.0983x    frame=  197 fps=2.5 q=21.0 size=    1536kB time=00:00:07.84 bitrate=1605.0kbits/s speed=0.0981x    frame=  198 fps=2.5 q=21.0 size=    1536kB time=00:00:07.88 bitrate=1596.8kbits/s speed=0.098x    frame=  199 fps=2.5 q=21.0 size=    1536kB time=00:00:07.92 bitrate=1588.7kbits/s speed=0.0978x    frame=  201 fps=2.4 q=21.0 size=    1536kB time=00:00:08.00 bitrate=1572.9kbits/s speed=0.0974x    frame=  202 fps=2.4 q=21.0 size=    1536kB time=00:00:08.04 bitrate=1565.0kbits/s speed=0.0972x    frame=  203 fps=2.4 q=21.0 size=    1536kB time=00:00:08.08 bitrate=1557.3kbits/s speed=0.0971x    frame=  205 fps=2.4 q=21.0 size=    1792kB time=00:00:08.16 bitrate=1799.0kbits/s speed=0.097x    frame=  206 fps=2.4 q=21.0 size=    1792kB time=00:00:08.20 bitrate=1790.2kbits/s speed=0.0968x    frame=  208 fps=2.4 q=21.0 size=    1792kB time=00:00:08.28 bitrate=1773.0kbits/s speed=0.0966x    frame=  209 fps=2.4 q=21.0 size=    1792kB time=00:00:08.32 bitrate=1764.4kbits/s speed=0.0965x    frame=  211 fps=2.4 q=21.0 size=    1792kB time=00:00:08.40 bitrate=1747.6kbits/s speed=0.0962x    frame=  212 fps=2.4 q=21.0 size=    1792kB time=00:00:08.44 bitrate=1739.3kbits/s speed=0.0961x    frame=  213 fps=2.4 q=21.0 size=    1792kB time=00:00:08.48 bitrate=1731.1kbits/s speed=0.096x    frame=  214 fps=2.4 q=21.0 size=    1792kB time=00:00:08.52 bitrate=1723.0kbits/s speed=0.0958x    frame=  215 fps=2.4 q=21.0 size=    1792kB time=00:00:08.56 bitrate=1715.0kbits/s speed=0.0955x    frame=  216 fps=2.4 q=21.0 size=    1792kB time=00:00:08.60 bitrate=1707.0kbits/s speed=0.0953x    frame=  218 fps=2.4 q=21.0 size=    1792kB time=00:00:08.68 bitrate=1691.2kbits/s speed=0.0951x    frame=  220 fps=2.4 q=21.0 size=    1792kB time=00:00:08.76 bitrate=1675.8kbits/s speed=0.0951x    frame=  222 fps=2.4 q=21.0 size=    1792kB time=00:00:08.84 bitrate=1660.6kbits/s speed=0.0951x    frame=  224 fps=2.4 q=21.0 size=    1792kB time=00:00:08.92 bitrate=1645.7kbits/s speed=0.095x    frame=  225 fps=2.4 q=21.0 size=    1792kB time=00:00:08.96 bitrate=1638.4kbits/s speed=0.0948x    frame=  227 fps=2.4 q=20.0 size=    1792kB time=00:00:09.04 bitrate=1623.9kbits/s speed=0.0948x    frame=  229 fps=2.4 q=20.0 size=    1792kB time=00:00:09.12 bitrate=1609.7kbits/s speed=0.0947x    frame=  231 fps=2.4 q=20.0 size=    1792kB time=00:00:09.20 bitrate=1595.7kbits/s speed=0.0947x    frame=  233 fps=2.4 q=20.0 size=    1792kB time=00:00:09.28 bitrate=1581.9kbits/s speed=0.0947x    frame=  235 fps=2.4 q=20.0 size=    2048kB time=00:00:09.36 bitrate=1792.4kbits/s speed=0.0947x    frame=  237 fps=2.4 q=20.0 size=    2048kB time=00:00:09.44 bitrate=1777.2kbits/s speed=0.0947x    frame=  239 fps=2.4 q=20.0 size=    2048kB time=00:00:09.52 bitrate=1762.3kbits/s speed=0.0946x    frame=  241 fps=2.4 q=19.0 size=    2048kB time=00:00:09.60 bitrate=1747.6kbits/s speed=0.0946x    frame=  243 fps=2.4 q=20.0 size=    2048kB time=00:00:09.68 bitrate=1733.2kbits/s speed=0.0946x    frame=  245 fps=2.4 q=20.0 size=    2048kB time=00:00:09.76 bitrate=1719.0kbits/s speed=0.0944x    frame=  247 fps=2.4 q=19.0 size=    2048kB time=00:00:09.84 bitrate=1705.0kbits/s speed=0.0942x    frame=  249 fps=2.4 q=19.0 size=    2048kB time=00:00:09.92 bitrate=1691.2kbits/s speed=0.0941x    frame=  251 fps=2.4 q=17.0 size=    2048kB time=00:00:10.00 bitrate=1677.7kbits/s speed=0.0941x    frame=  253 fps=2.4 q=21.0 size=    2048kB time=00:00:10.08 bitrate=1664.4kbits/s speed=0.0941x    frame=  255 fps=2.4 q=20.0 size=    2048kB time=00:00:10.16 bitrate=1651.3kbits/s speed=0.0942x    frame=  257 fps=2.4 q=19.0 size=    2048kB time=00:00:10.24 bitrate=1638.4kbits/s speed=0.0943x    frame=  258 fps=2.4 q=19.0 size=    2048kB time=00:00:10.28 bitrate=1632.0kbits/s speed=0.0942x    frame=  259 fps=2.4 q=20.0 size=    2048kB time=00:00:10.32 bitrate=1625.7kbits/s speed=0.0941x    frame=  260 fps=2.4 q=20.0 size=    2048kB time=00:00:10.36 bitrate=1619.4kbits/s speed=0.0939x    frame=  261 fps=2.4 q=20.0 size=    2048kB time=00:00:10.40 bitrate=1613.2kbits/s speed=0.0938x    frame=  262 fps=2.4 q=20.0 size=    2304kB time=00:00:10.44 bitrate=1807.9kbits/s speed=0.0938x    frame=  263 fps=2.3 q=20.0 size=    2304kB time=00:00:10.48 bitrate=1801.0kbits/s speed=0.0936x    frame=  265 fps=2.3 q=20.0 size=    2304kB time=00:00:10.56 bitrate=1787.3kbits/s speed=0.0936x    frame=  267 fps=2.3 q=20.0 size=    2304kB time=00:00:10.64 bitrate=1773.9kbits/s speed=0.0936x    frame=  269 fps=2.3 q=20.0 size=    2304kB time=00:00:10.72 bitrate=1760.7kbits/s speed=0.0935x    frame=  271 fps=2.3 q=20.0 size=    2304kB time=00:00:10.80 bitrate=1747.6kbits/s speed=0.0935x    frame=  273 fps=2.3 q=20.0 size=    2304kB time=00:00:10.88 bitrate=1734.8kbits/s speed=0.0934x    frame=  274 fps=2.3 q=20.0 size=    2304kB time=00:00:10.92 bitrate=1728.4kbits/s speed=0.0934x    frame=  276 fps=2.3 q=20.0 size=    2304kB time=00:00:11.00 bitrate=1715.8kbits/s speed=0.0933x    frame=  278 fps=2.3 q=21.0 size=    2304kB time=00:00:11.08 bitrate=1703.5kbits/s speed=0.0932x    frame=  280 fps=2.3 q=21.0 size=    2304kB time=00:00:11.16 bitrate=1691.2kbits/s speed=0.0931x    frame=  282 fps=2.3 q=21.0 size=    2304kB time=00:00:11.24 bitrate=1679.2kbits/s speed=0.0931x    frame=  283 fps=2.3 q=21.0 size=    2304kB time=00:00:11.28 bitrate=1673.3kbits/s speed=0.093x    frame=  285 fps=2.3 q=21.0 size=    2304kB time=00:00:11.36 bitrate=1661.5kbits/s speed=0.0929x    frame=  286 fps=2.3 q=21.0 size=    2304kB time=00:00:11.40 bitrate=1655.6kbits/s speed=0.0928x    frame=  287 fps=2.3 q=21.0 size=    2304kB time=00:00:11.44 bitrate=1649.9kbits/s speed=0.0927x    frame=  288 fps=2.3 q=21.0 size=    2304kB time=00:00:11.48 bitrate=1644.1kbits/s speed=0.0926x    frame=  290 fps=2.3 q=21.0 size=    2304kB time=00:00:11.56 bitrate=1632.7kbits/s speed=0.0926x    frame=  292 fps=2.3 q=21.0 size=    2560kB time=00:00:11.64 bitrate=1801.7kbits/s speed=0.0926x    frame=  293 fps=2.3 q=21.0 size=    2560kB time=00:00:11.68 bitrate=1795.5kbits/s speed=0.0924x    frame=  294 fps=2.3 q=21.0 size=    2560kB time=00:00:11.72 bitrate=1789.4kbits/s speed=0.0923x    frame=  296 fps=2.3 q=21.0 size=    2560kB time=00:00:11.80 bitrate=1777.2kbits/s speed=0.0923x    frame=  297 fps=2.3 q=21.0 size=    2560kB time=00:00:11.84 bitrate=1771.2kbits/s speed=0.0921x    frame=  298 fps=2.3 q=21.0 size=    2560kB time=00:00:11.88 bitrate=1765.3kbits/s speed=0.092x    frame=  300 fps=2.3 q=21.0 size=    2560kB time=00:00:11.96 bitrate=1753.5kbits/s speed=0.092x    frame=  302 fps=2.3 q=21.0 size=    2560kB time=00:00:12.04 bitrate=1741.8kbits/s speed=0.092x    frame=  304 fps=2.3 q=21.0 size=    2560kB time=00:00:12.12 bitrate=1730.3kbits/s speed=0.092x    frame=  306 fps=2.3 q=21.0 size=    2560kB time=00:00:12.20 bitrate=1719.0kbits/s speed=0.092x    frame=  308 fps=2.3 q=21.0 size=    2560kB time=00:00:12.28 bitrate=1707.8kbits/s speed=0.092x    frame=  310 fps=2.3 q=21.0 size=    2560kB time=00:00:12.36 bitrate=1696.7kbits/s speed=0.092x    frame=  312 fps=2.3 q=21.0 size=    2560kB time=00:00:12.44 bitrate=1685.8kbits/s speed=0.0919x    frame=  313 fps=2.3 q=21.0 size=    2560kB time=00:00:12.48 bitrate=1680.4kbits/s speed=0.0919x    frame=  314 fps=2.3 q=21.0 size=    2560kB time=00:00:12.52 bitrate=1675.0kbits/s speed=0.0917x    frame=  316 fps=2.3 q=21.0 size=    2560kB time=00:00:12.60 bitrate=1664.4kbits/s speed=0.0917x    frame=  318 fps=2.3 q=21.0 size=    2560kB time=00:00:12.68 bitrate=1653.9kbits/s speed=0.0917x    frame=  320 fps=2.3 q=21.0 size=    2560kB time=00:00:12.76 bitrate=1643.5kbits/s speed=0.0917x    frame=  322 fps=2.3 q=20.0 size=    2560kB time=00:00:12.84 bitrate=1633.3kbits/s speed=0.0917x    frame=  324 fps=2.3 q=20.0 size=    2816kB time=00:00:12.92 bitrate=1785.5kbits/s speed=0.0916x    frame=  326 fps=2.3 q=20.0 size=    2816kB time=00:00:13.00 bitrate=1774.5kbits/s speed=0.0916x    frame=  328 fps=2.3 q=20.0 size=    2816kB time=00:00:13.08 bitrate=1763.7kbits/s speed=0.0916x    frame=  330 fps=2.3 q=20.0 size=    2816kB time=00:00:13.16 bitrate=1752.9kbits/s speed=0.0916x    frame=  332 fps=2.3 q=20.0 size=    2816kB time=00:00:13.24 bitrate=1742.3kbits/s speed=0.0916x    frame=  334 fps=2.3 q=20.0 size=    2816kB time=00:00:13.32 bitrate=1731.9kbits/s speed=0.0916x    frame=  336 fps=2.3 q=21.0 size=    2816kB time=00:00:13.40 bitrate=1721.5kbits/s speed=0.0915x    frame=  338 fps=2.3 q=20.0 size=    2816kB time=00:00:13.48 bitrate=1711.3kbits/s speed=0.0915x    frame=  340 fps=2.3 q=20.0 size=    2816kB time=00:00:13.56 bitrate=1701.2kbits/s speed=0.0914x    frame=  341 fps=2.3 q=20.0 size=    2816kB time=00:00:13.60 bitrate=1696.2kbits/s speed=0.0912x    frame=  342 fps=2.3 q=20.0 size=    2816kB time=00:00:13.64 bitrate=1691.3kbits/s speed=0.0911x    frame=  343 fps=2.3 q=20.0 size=    2816kB time=00:00:13.68 bitrate=1686.3kbits/s speed=0.091x    frame=  344 fps=2.3 q=21.0 size=    2816kB time=00:00:13.72 bitrate=1681.4kbits/s speed=0.0908x    frame=  345 fps=2.3 q=21.0 size=    2816kB time=00:00:13.76 bitrate=1676.5kbits/s speed=0.0908x    frame=  346 fps=2.3 q=21.0 size=    2816kB time=00:00:13.80 bitrate=1671.6kbits/s speed=0.0907x    frame=  347 fps=2.3 q=21.0 size=    2816kB time=00:00:13.84 bitrate=1666.8kbits/s speed=0.0905x    frame=  348 fps=2.3 q=21.0 size=    2816kB time=00:00:13.88 bitrate=1662.0kbits/s speed=0.0903x    frame=  349 fps=2.3 q=21.0 size=    2816kB time=00:00:13.92 bitrate=1657.2kbits/s speed=0.0902x    frame=  350 fps=2.3 q=21.0 size=    2816kB time=00:00:13.96 bitrate=1652.5kbits/s speed=0.0901x    frame=  351 fps=2.3 q=21.0 size=    2816kB time=00:00:14.00 bitrate=1647.8kbits/s speed=0.0901x    frame=  352 fps=2.3 q=21.0 size=    2816kB time=00:00:14.04 bitrate=1643.1kbits/s speed=0.0899x    frame=  353 fps=2.3 q=21.0 size=    3072kB time=00:00:14.08 bitrate=1787.3kbits/s speed=0.0898x    frame=  354 fps=2.2 q=22.0 size=    3072kB time=00:00:14.12 bitrate=1782.3kbits/s speed=0.0897x    frame=  355 fps=2.2 q=22.0 size=    3072kB time=00:00:14.16 bitrate=1777.2kbits/s speed=0.0896x    frame=  356 fps=2.2 q=22.0 size=    3072kB time=00:00:14.20 bitrate=1772.2kbits/s speed=0.0896x    frame=  357 fps=2.2 q=22.0 size=    3072kB time=00:00:14.24 bitrate=1767.3kbits/s speed=0.0895x    frame=  358 fps=2.2 q=22.0 size=    3072kB time=00:00:14.28 bitrate=1762.3kbits/s speed=0.0894x    frame=  359 fps=2.2 q=22.0 size=    3072kB time=00:00:14.32 bitrate=1757.4kbits/s speed=0.0892x    frame=  360 fps=2.2 q=22.0 size=    3072kB time=00:00:14.36 bitrate=1752.5kbits/s speed=0.0891x    frame=  361 fps=2.2 q=22.0 size=    3072kB time=00:00:14.40 bitrate=1747.6kbits/s speed=0.0891x    frame=  362 fps=2.2 q=22.0 size=    3072kB time=00:00:14.44 bitrate=1742.8kbits/s speed=0.089x    frame=  363 fps=2.2 q=22.0 size=    3072kB time=00:00:14.48 bitrate=1738.0kbits/s speed=0.0889x    frame=  364 fps=2.2 q=22.0 size=    3072kB time=00:00:14.52 bitrate=1733.2kbits/s speed=0.0888x    frame=  365 fps=2.2 q=22.0 size=    3072kB time=00:00:14.56 bitrate=1728.4kbits/s speed=0.0887x    frame=  366 fps=2.2 q=22.0 size=    3072kB time=00:00:14.60 bitrate=1723.7kbits/s speed=0.0886x    frame=  367 fps=2.2 q=22.0 size=    3072kB time=00:00:14.64 bitrate=1719.0kbits/s speed=0.0886x    frame=  368 fps=2.2 q=22.0 size=    3072kB time=00:00:14.68 bitrate=1714.3kbits/s speed=0.0885x    frame=  369 fps=2.2 q=22.0 size=    3072kB time=00:00:14.72 bitrate=1709.6kbits/s speed=0.0884x    frame=  370 fps=2.2 q=22.0 size=    3072kB time=00:00:14.76 bitrate=1705.0kbits/s speed=0.0883x    frame=  371 fps=2.2 q=22.0 size=    3072kB time=00:00:14.80 bitrate=1700.4kbits/s speed=0.0882x    frame=  372 fps=2.2 q=22.0 size=    3072kB time=00:00:14.84 bitrate=1695.8kbits/s speed=0.0881x    frame=  373 fps=2.2 q=22.0 size=    3072kB time=00:00:14.88 bitrate=1691.3kbits/s speed=0.0881x    frame=  374 fps=2.2 q=22.0 size=    3072kB time=00:00:14.92 bitrate=1686.7kbits/s speed=0.088x    frame=  375 fps=2.2 q=22.0 size=    3072kB time=00:00:14.96 bitrate=1682.2kbits/s speed=0.0879x    frame=  376 fps=2.2 q=22.0 size=    3072kB time=00:00:15.00 bitrate=1677.7kbits/s speed=0.0878x    frame=  377 fps=2.2 q=22.0 size=    3072kB time=00:00:15.04 bitrate=1673.3kbits/s speed=0.0878x    frame=  378 fps=2.2 q=22.0 size=    3072kB time=00:00:15.08 bitrate=1668.8kbits/s speed=0.0877x    frame=  379 fps=2.2 q=22.0 size=    3328kB time=00:00:15.12 bitrate=1803.1kbits/s speed=0.0876x    frame=  380 fps=2.2 q=22.0 size=    3328kB time=00:00:15.16 bitrate=1798.3kbits/s speed=0.0875x    frame=  381 fps=2.2 q=22.0 size=    3328kB time=00:00:15.20 bitrate=1793.6kbits/s speed=0.0875x    frame=  382 fps=2.2 q=22.0 size=    3328kB time=00:00:15.24 bitrate=1788.9kbits/s speed=0.0874x    frame=  383 fps=2.2 q=22.0 size=    3328kB time=00:00:15.28 bitrate=1784.2kbits/s speed=0.0873x    frame=  384 fps=2.2 q=22.0 size=    3328kB time=00:00:15.32 bitrate=1779.6kbits/s speed=0.0872x    frame=  385 fps=2.2 q=22.0 size=    3328kB time=00:00:15.36 bitrate=1774.9kbits/s speed=0.0871x    frame=  386 fps=2.2 q=22.0 size=    3328kB time=00:00:15.40 bitrate=1770.3kbits/s speed=0.087x    frame=  387 fps=2.2 q=22.0 size=    3328kB time=00:00:15.44 bitrate=1765.7kbits/s speed=0.087x    frame=  388 fps=2.2 q=22.0 size=    3328kB time=00:00:15.48 bitrate=1761.2kbits/s speed=0.0869x    frame=  389 fps=2.2 q=22.0 size=    3328kB time=00:00:15.52 bitrate=1756.6kbits/s speed=0.0869x    frame=  390 fps=2.2 q=22.0 size=    3328kB time=00:00:15.56 bitrate=1752.1kbits/s speed=0.0867x    frame=  391 fps=2.2 q=22.0 size=    3328kB time=00:00:15.60 bitrate=1747.6kbits/s speed=0.0867x    frame=  393 fps=2.2 q=22.0 size=    3328kB time=00:00:15.68 bitrate=1738.7kbits/s speed=0.0866x    frame=  394 fps=2.2 q=22.0 size=    3328kB time=00:00:15.72 bitrate=1734.3kbits/s speed=0.0865x    frame=  395 fps=2.2 q=22.0 size=    3328kB time=00:00:15.76 bitrate=1729.9kbits/s speed=0.0865x    frame=  396 fps=2.2 q=21.0 size=    3328kB time=00:00:15.80 bitrate=1725.5kbits/s speed=0.0864x    frame=  397 fps=2.2 q=21.0 size=    3328kB time=00:00:15.84 bitrate=1721.1kbits/s speed=0.0864x    frame=  398 fps=2.2 q=21.0 size=    3328kB time=00:00:15.88 bitrate=1716.8kbits/s speed=0.0863x    frame=  399 fps=2.2 q=21.0 size=    3328kB time=00:00:15.92 bitrate=1712.5kbits/s speed=0.0862x    frame=  400 fps=2.2 q=21.0 size=    3328kB time=00:00:15.96 bitrate=1708.2kbits/s speed=0.0862x    frame=  401 fps=2.2 q=21.0 size=    3328kB time=00:00:16.00 bitrate=1703.9kbits/s speed=0.0861x    frame=  402 fps=2.2 q=21.0 size=    3328kB time=00:00:16.04 bitrate=1699.7kbits/s speed=0.0861x    frame=  403 fps=2.2 q=21.0 size=    3328kB time=00:00:16.08 bitrate=1695.5kbits/s speed=0.0859x    frame=  404 fps=2.1 q=21.0 size=    3328kB time=00:00:16.12 bitrate=1691.3kbits/s speed=0.0857x    frame=  405 fps=2.1 q=21.0 size=    3328kB time=00:00:16.16 bitrate=1687.1kbits/s speed=0.0856x    frame=  406 fps=2.1 q=21.0 size=    3328kB time=00:00:16.20 bitrate=1682.9kbits/s speed=0.0854x    frame=  407 fps=2.1 q=21.0 size=    3328kB time=00:00:16.24 bitrate=1678.8kbits/s speed=0.0852x    frame=  408 fps=2.1 q=21.0 size=    3584kB time=00:00:16.28 bitrate=1803.4kbits/s speed=0.0851x    frame=  409 fps=2.1 q=21.0 size=    3584kB time=00:00:16.32 bitrate=1799.0kbits/s speed=0.0849x    frame=  410 fps=2.1 q=21.0 size=    3584kB time=00:00:16.36 bitrate=1794.6kbits/s speed=0.0847x    frame=  411 fps=2.1 q=21.0 size=    3584kB time=00:00:16.40 bitrate=1790.3kbits/s speed=0.0845x    frame=  412 fps=2.1 q=21.0 size=    3584kB time=00:00:16.44 bitrate=1785.9kbits/s speed=0.0844x    frame=  413 fps=2.1 q=21.0 size=    3584kB time=00:00:16.48 bitrate=1781.6kbits/s speed=0.0842x    frame=  414 fps=2.1 q=21.0 size=    3584kB time=00:00:16.52 bitrate=1777.2kbits/s speed=0.0841x    frame=  415 fps=2.1 q=21.0 size=    3584kB time=00:00:16.56 bitrate=1773.0kbits/s speed=0.0837x    frame=  416 fps=2.1 q=21.0 size=    3584kB time=00:00:16.60 bitrate=1768.7kbits/s speed=0.0835x    frame=  417 fps=2.1 q=20.0 size=    3584kB time=00:00:16.64 bitrate=1764.4kbits/s speed=0.0833x    frame=  418 fps=2.1 q=20.0 size=    3584kB time=00:00:16.68 bitrate=1760.2kbits/s speed=0.0831x    frame=  419 fps=2.1 q=20.0 size=    3584kB time=00:00:16.72 bitrate=1756.0kbits/s speed=0.0829x    frame=  420 fps=2.1 q=20.0 size=    3584kB time=00:00:16.76 bitrate=1751.8kbits/s speed=0.0827x    frame=  421 fps=2.1 q=20.0 size=    3584kB time=00:00:16.80 bitrate=1747.6kbits/s speed=0.0825x    frame=  422 fps=2.1 q=20.0 size=    3584kB time=00:00:16.84 bitrate=1743.5kbits/s speed=0.0823x    frame=  423 fps=2.1 q=20.0 size=    3584kB time=00:00:16.88 bitrate=1739.3kbits/s speed=0.0821x    frame=  424 fps=2.1 q=20.0 size=    3584kB time=00:00:16.92 bitrate=1735.2kbits/s speed=0.0818x    frame=  425 fps=2.0 q=20.0 size=    3584kB time=00:00:16.96 bitrate=1731.1kbits/s speed=0.0816x    frame=  426 fps=2.0 q=20.0 size=    3584kB time=00:00:17.00 bitrate=1727.1kbits/s speed=0.0813x    frame=  427 fps=2.0 q=20.0 size=    3584kB time=00:00:17.04 bitrate=1723.0kbits/s speed=0.0811x    frame=  428 fps=2.0 q=20.0 size=    3584kB time=00:00:17.08 bitrate=1719.0kbits/s speed=0.0809x    frame=  429 fps=2.0 q=21.0 size=    3584kB time=00:00:17.12 bitrate=1715.0kbits/s speed=0.078x    frame=  430 fps=1.8 q=22.0 size=    3584kB time=00:00:17.16 bitrate=1711.0kbits/s speed=0.0725x    frame=  431 fps=1.7 q=22.0 size=    3584kB time=00:00:17.20 bitrate=1707.0kbits/s speed=0.0664x    frame=  432 fps=1.6 q=22.0 size=    3584kB time=00:00:17.24 bitrate=1703.0kbits/s speed=0.0651x    frame=  433 fps=1.6 q=22.0 size=    3584kB time=00:00:17.28 bitrate=1699.1kbits/s speed=0.0644x    frame=  434 fps=1.5 q=22.0 size=    3584kB time=00:00:17.32 bitrate=1695.2kbits/s speed=0.0616x    frame=  435 fps=1.5 q=22.0 size=    3840kB time=00:00:17.36 bitrate=1812.1kbits/s speed=0.0605x    frame=  436 fps=1.5 q=22.0 size=    3840kB time=00:00:17.40 bitrate=1807.9kbits/s speed=0.0604x    frame=  437 fps=1.5 q=22.0 size=    3840kB time=00:00:17.44 bitrate=1803.7kbits/s speed=0.0594x    frame=  438 fps=1.4 q=23.0 size=    3840kB time=00:00:17.48 bitrate=1799.6kbits/s speed=0.055x    frame=  439 fps=1.3 q=22.0 size=    3840kB time=00:00:17.52 bitrate=1795.5kbits/s speed=0.0514x    frame=  440 fps=1.2 q=22.0 size=    3840kB time=00:00:17.56 bitrate=1791.4kbits/s speed=0.0463x    frame=  441 fps=1.0 q=22.0 size=    3840kB time=00:00:17.60 bitrate=1787.3kbits/s speed=0.0414x    frame=  442 fps=0.9 q=22.0 size=    3840kB time=00:00:17.64 bitrate=1783.3kbits/s speed=0.0374x    frame=  443 fps=0.9 q=22.0 size=    3840kB time=00:00:17.68 bitrate=1779.3kbits/s speed=0.0341x    frame=  444 fps=0.8 q=22.0 size=    3840kB time=00:00:17.72 bitrate=1775.2kbits/s speed=0.0313x    frame=  445 fps=0.7 q=21.0 size=    3840kB time=00:00:17.76 bitrate=1771.2kbits/s speed=0.029x    frame=  446 fps=0.7 q=21.0 size=    3840kB time=00:00:17.80 bitrate=1767.3kbits/s speed=0.0269x    frame=  447 fps=0.6 q=21.0 size=    3840kB time=00:00:17.84 bitrate=1763.3kbits/s speed=0.0251x    frame=  448 fps=0.6 q=21.0 size=    3840kB time=00:00:17.88 bitrate=1759.4kbits/s speed=0.0235x    frame=  449 fps=0.6 q=21.0 size=    3840kB time=00:00:17.92 bitrate=1755.4kbits/s speed=0.0222x    frame=  450 fps=0.5 q=21.0 size=    3840kB time=00:00:17.96 bitrate=1751.5kbits/s speed=0.021x    frame=  451 fps=0.5 q=21.0 size=    3840kB time=00:00:18.00 bitrate=1747.6kbits/s speed=0.0199x    frame=  452 fps=0.5 q=21.0 size=    3840kB time=00:00:18.04 bitrate=1743.8kbits/s speed=0.0189x    frame=  453 fps=0.5 q=21.0 size=    3840kB time=00:00:18.08 bitrate=1739.9kbits/s speed=0.018x    frame=  454 fps=0.4 q=21.0 size=    3840kB time=00:00:18.12 bitrate=1736.1kbits/s speed=0.0172x    frame=  455 fps=0.4 q=21.0 size=    3840kB time=00:00:18.16 bitrate=1732.2kbits/s speed=0.0164x    Error while decoding stream #0:0: Invalid data found when processing input
+frame=  455 fps=0.4 q=21.0 size=    3840kB time=00:00:18.16 bitrate=1732.2kbits/s speed=0.0157x    frame=  455 fps=0.4 q=21.0 Lsize=    4084kB time=00:00:18.16 bitrate=1842.3kbits/s speed=0.0154x    
+video:3735kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 9.333101%
+[libx264 @ 0x5555555dd680] frame I:2     Avg QP:13.96  size: 79958
+[libx264 @ 0x5555555dd680] frame P:453   Avg QP:19.71  size:  8091
+[libx264 @ 0x5555555dd680] mb I  I16..4: 43.0% 28.7% 28.2%
+[libx264 @ 0x5555555dd680] mb P  I16..4: 10.4% 12.4%  1.1%  P16..4: 21.9%  7.3%  5.0%  0.0%  0.0%    skip:41.9%
+[libx264 @ 0x5555555dd680] 8x8 transform intra:51.5% inter:26.7%
+[libx264 @ 0x5555555dd680] coded y,uvDC,uvAC intra: 7.4% 62.6% 50.6% inter: 10.9% 13.5% 6.4%
+[libx264 @ 0x5555555dd680] i16 v,h,dc,p: 64%  9% 24%  3%
+[libx264 @ 0x5555555dd680] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17%  7% 59%  3%  3%  4%  3%  3%  2%
+[libx264 @ 0x5555555dd680] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 14% 35%  4%  5%  4%  3%  3%  2%
+[libx264 @ 0x5555555dd680] i8c dc,h,v,p: 48% 24% 15% 13%
+[libx264 @ 0x5555555dd680] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x5555555dd680] ref P L0: 35.2%  3.2% 23.1% 14.9% 12.5% 11.0%
+[libx264 @ 0x5555555dd680] kb/s:1681.35
+Exiting normally, received signal 2.
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [Thread debugging using libthread_db enabled]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffefb83700 (LWP 1564408)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffef382700 (LWP 1564409)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffeeb81700 (LWP 1564410)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffee380700 (LWP 1564411)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffedb7f700 (LWP 1564412)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffed37e700 (LWP 1564413)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffecb7d700 (LWP 1564414)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffcffff700 (LWP 1564415)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffcf7fe700 (LWP 1564416)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffceffd700 (LWP 1564417)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffce7fc700 (LWP 1564418)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffcdffb700 (LWP 1564419)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffcd7fa700 (LWP 1564420)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffccff9700 (LWP 1564421)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffaffff700 (LWP 1564422)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffaf7fe700 (LWP 1564423)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffaeffd700 (LWP 1564424)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffae7fc700 (LWP 1564425)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffadffb700 (LWP 1564426)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: [New Thread 0x7fffad7fa700 (LWP 1564427)]
+/home/pmorelr/apps/basilisk/src/poisson.h:311:error: Thread 1 "boil_bad" received signal SIGINT, Interrupt.

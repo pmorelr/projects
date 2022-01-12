@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="3">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Erosive Wear Models</title>
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Quattrocento+Sans|Roboto" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet">
+<link rel="stylesheet" href="/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="/simuladores/css/homepage.css">
+<script src="/bootstrap-3.3.7-dist/js/jquery.js"></script>
+<script src="/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+<script src="/simuladores/erosion_dynamic_content.js"></script>
+</head>
+
+<body>
+##header##
+
+<div id="maincontent">
+<div id="topo">
+<h1>Erosive Wear Models</h1>
+</div>
+
+<form action="/cgi-bin/erosion_models" method="post">
+<fieldset id="parametros">
+<legend>Parameters</legend>
+  <div class="halfwidth">
+  <div>
+  <label> Surface Geometry:</label>
+  <select name="geometry" id='geo'>
+    <option value="jet" ##jetg##>Direct Impact to Wall</option>
+    <option value="pipe" ##pipeg##>Straight Pipe</option>
+    <option value="joint" ##jointg##>Welded Joint</option>
+    <option value="bend" ##bendg##>Pipe Bend</option>
+  	<option value="tee" ##teeg##>Blinded Tee</option>
+  	<option value="reducer" ##reducerg##>Reducer</option>
+  </select>
+  </div>
+  <div class="finnie oka ahlert dnv haugen huang arabnejad jet param" >
+  <label> Erosion Model:</label>
+  <select name="models" id='model'>
+    <option value="ahlert" ##ahlertm##>Ahlert (1994)</option>
+  	<option value="arabnejad" ##arabnejadm##>Arabnejad et al. (2015) </option>
+    <option value="dnv" ##dnvm##>DNV (2015)</option>
+    <option value="finnie" ##finniem##>Finnie (1960)</option>
+  	<option value="haugen" ##haugenm##>Haugen et al. (1995)</option>
+  	<option value="huang" ##huangm##>Huang et al. (2008)</option>
+    <option value="oka" ##okam##>Oka and Yoshida (2005)</option>
+  </select>
+  </div>
+  <div class="pipe joint bend tee reducer param" >
+  <label> Erosion Model:</label>
+  <select disabled>
+    <option value="dnv" ##dnvm##>DNV (2015)</option>
+  </select>
+  </div>
+
+<div class="jet pipe joint bend tee reducer param finnie oka ahlert dnv haugen huang arabnejad"  >
+<label>Velocity (m/s): </label><input type="text" name="vp" value="##vpp##" /> </div>
+<div class="jet joint reducer param finnie oka ahlert dnv haugen huang arabnejad" >
+<label>Angle (Degrees): </label><input type="text" name="alfa" value="##alfap##"/> </div>
+<div class="jet joint bend tee reducer param oka huang" >
+<label>Particle Diameter (m): </label><input type="text" name="dp" value="##dpp##"/> </div>
+<div class="jet joint bend tee reducer param finnie oka ahlert dnv haugen huang arabnejad" >
+<label>Target Wall Density (g/cm³): </label><input type="text" name="rot" value="##rotp##"/> </div>
+<div class="jet pipe joint bend tee reducer param finnie oka ahlert dnv haugen huang arabnejad" >
+<label>Particle Mass (kg): </label><input type="text" name="mp" value="##mpp##"/> </div>
+<div class="jet param oka" >
+<label> Vickers Hardness: </label><input type="text" name="Hv" value="##Hvp##"/> </div>
+<div class="jet bend tee param huang" >
+<label>Particle Density (g/cm³): </label><input type="text" name="rop" value="##ropp##"/> </div>
+<div class="pipe joint bend tee param" >
+<label>Pipe Diameter (m): </label><input type="text" name="D" value="##Dp##"/> </div>
+<div class="bend tee param" >
+<label>Mixture Dynamic Viscosity (Pa·s): </label><input type="text" name="mum" value="##mump##"/> </div>
+<div class="bend tee reducer param" >
+<label>Mixture Density (kg/m³): </label><input type="text" name="rom" value="##romp##"/> </div>
+<div class="bend param" >
+<label>Radius (Number of Pipe Diameters): </label><input type="text" name="R" value="##Rp##"/> </div>
+<div class="reducer param" >
+<label> First Pipe Diameter (m): </label><input type="text" name="D1" value="##D1p##"/> </div>
+<div class="reducer param " >
+<label> Second Pipe Diameter (m): </label><input type="text" name="D2" value="##D2p##"/> </div>
+<div class="jet param ahlert " >
+<label> Brinell Hardness: </label><input type="text" name="BH" value="##BHp##"/> </div>
+<div class="jet param finnie " >
+<label> Plastic Flow Stress (Pa): </label><input type="text" name="P" value="##Pp##"/> </div>
+<div class="bend tee reducer param" >
+<label> Geometry Factor: </label><input type="text" name="GF" value="##GFp##"/> </div>
+<div class="jet param ahlert arabnejad " >
+<label> Sharpness Factor: </label><input type="text" name="Fs" value="##Fsp##"/> </div>
+
+<input type="submit" value="Submit" />
+<input id="helpbutton" type="button" value="Help" />
+</div>
+<div class="halfwidth">
+<img class="jet param finnie oka ahlert dnv haugen huang arabnejad" src="/img/erosion_jet.svg">
+<img class="pipe param" src="/img/erosion_straight_pipe.svg">
+<img class="joint param" src="/img/erosion_welded_joint.svg">
+<img class="bend param" src="/img/erosion_bend.svg">
+<img class="tee param" src="/img/erosion_blinded_tee.svg">
+<img class="reducer param" src="/img/erosion_reducer.svg">
+</div>
+</fieldset>
+
+<fieldset id="resultados">
+<legend>Results</legend>
+<div class="halfwidth">
+<div class="jet param finnie oka ahlert dnv haugen huang arabnejad" >
+<label>Erosion Rate (kg/kg): </label><input type="text" value="##0r##" readonly/> </div>
+<div class="jet param finnie oka ahlert dnv haugen huang arabnejad" >
+<label>Volume loss (m³) </label><input type="text" value="##1r##" readonly/> </div>
+<div class="pipe joint bend tee reducer param" >
+<label>Relative Thickness Loss (mm/ton): </label><input type="text" value="##2r##" readonly/> </div>
+<div class="pipe joint bend tee reducer param" >
+<label>Thickness Loss (mm): </label><input type="text" value="##3r##" readonly/> </div>
+</div>
+</fieldset>
+</form>
+
+</div>
+
+##footer##
+
+</body>
+</html>

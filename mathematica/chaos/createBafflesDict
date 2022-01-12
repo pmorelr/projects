@@ -1,0 +1,228 @@
+etFi/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v1812                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      createBafflesDict;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+// Whether to convert internal faces only (so leave boundary faces intact).
+// This is only relevant if your face selection type can pick up boundary
+// faces.
+internalFacesOnly true;
+
+
+// Baffles to create.
+baffles
+{
+    LinerFaces
+    {
+        //- Select faces and orientation through a searchableSurface
+        type        faceZone;
+        zoneName    LinerFaces;
+        patches
+        {
+            master
+            {
+                //- Master side patch
+
+                name            liner_half0;
+                type            mappedPatch;
+                sampleMode      nearestPatchFace;
+                sampleRegion    well0;
+                samplePatch     liner_half1;
+
+                //- Optional override of added patchfields. If not specified
+                //  any added patchfields are of type calculated.
+                patchFields
+                {
+                    p_rgh
+                    {
+                        type      mappedFlowGradP;
+                        nbrPhi    phi;
+                        gradient  uniform 0.00000001;
+                        value     uniform 9806613.6;
+                    }
+                    U
+                    {
+                        type    calculated;
+			value	uniform (0 0 0);
+                    }
+                    p
+                    {
+                        type    calculated;
+                        value   uniform 9806613.6;
+                    }
+                    T
+                    {
+                        type    zeroGradient;
+                    }
+                    porosity
+                    {
+                        type    zeroGradient;
+                    }
+                    invK
+                    {
+                        type    zeroGradient;
+                    }
+                    beta
+                    {
+                        type    zeroGradient;
+                    }
+                }
+            }
+            slave
+            {
+                //- Slave side patch
+
+                name            liner_half1;
+                type            mappedPatch;
+                sampleMode      nearestPatchFace;
+                sampleRegion    well0;
+                samplePatch     liner_half0;
+                
+                patchFields
+                {
+                    p_rgh
+                    {
+                        type         mappedPressure;
+                        relax        0.1;                
+                        value        uniform 9806613.6;      
+                    }
+                    U
+                    {
+                        type    calculated;
+			value	uniform (0 0 0);
+                    }
+                    p
+                    {
+                        type    calculated;
+                        value   uniform 9806613.6;
+                    }
+                    T
+                    {
+                        type    zeroGradient;
+                    }
+                    porosity
+                    {
+                        type    zeroGradient;
+                    }
+                    invK
+                    {
+                        type    zeroGradient;
+                    }
+                    beta
+                    {
+                        type    zeroGradient;
+                    }
+                }
+            }
+        }
+    }
+    
+  
+    wallFaces
+    {
+        //- Select faces and orientation through a searchableSurface
+        type        faceZone;
+        zoneName    wallFaces;
+        patches
+        {
+            master
+            {
+                //- Master side patch
+                name            wall_half0;
+                type            wall;
+                
+                patchFields
+                {
+                    p_rgh
+                    {
+                    p_rgh
+                    {
+                        type      mappedFlowGradP;
+                        nbrPhi    phi;
+                        gradient  uniform 0.00000001;
+                        value     uniform 9806613.6;
+   
+                    }
+                    U
+                    {
+                        type    slip;
+                    }
+                    p
+                    {
+                        type    calculated;
+                        value   uniform 9806613.6;
+                    }
+                    T
+                    {
+                        type    zeroGradient;
+                    }
+                    porosity
+                    {
+                        type    zeroGradient;
+                    }
+                    invK
+                    {
+                        type    zeroGradient;
+                    }
+                    beta
+                    {
+                        type    zeroGradient;
+                    }
+                }
+            }
+            slave
+            {
+                //- Slave side patch
+                name            wall_half1;
+                type            wall;
+                
+                patchFields
+                {
+                    p_rgh
+                    {
+                        type    zeroGradient;//fixedFluxPressure;
+                    }
+                    U
+                    {
+                        type    slip;
+                    }
+                    p
+                    {
+                        type    calculated;
+                        value   uniform 9806613.6;
+                    }
+                    T
+                    {
+                        type    zeroGradient;
+                    }
+                    porosity
+                    {
+                        type    zeroGradient;
+                    }
+                    invK
+                    {
+                        type    zeroGradient;
+                    }
+                    beta
+                    {
+                        type    zeroGradient;
+                    }
+                }
+            }
+        }
+    } 
+}
+
+
+// ************************************************************************* //

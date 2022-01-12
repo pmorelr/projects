@@ -1,0 +1,6 @@
+#!/bin/sh                                                                       
+
+make boil6.tst
+make boil7.tst
+make boil8.tst
+make boil9.tst

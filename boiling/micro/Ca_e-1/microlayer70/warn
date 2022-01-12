@@ -1,0 +1,10 @@
+In file included from microlayer70.c:6:
+/home/pmorelr/apps/basilisk/src/contact.h:12: warning: "interface_normal" redefined
+   12 | #define interface_normal(point, c) interface_normal (point, c)
+      | 
+In file included from /home/pmorelr/apps/basilisk/src/vof.h:35,
+                 from /home/pmorelr/apps/basilisk/src/two-phase.h:13,
+                 from microlayer70.c:3:
+/home/pmorelr/apps/basilisk/src/fractions.h:29: note: this is the location of the previous definition
+   29 | # define interface_normal(point, c) mycs (point, c)
+      | 
